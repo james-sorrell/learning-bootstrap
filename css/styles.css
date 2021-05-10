@@ -26,6 +26,10 @@
     background: #ad92db
 }
 
+.card-header {
+    background: #685e7a
+}
+
 .address {
     font-size: 80%;
     margin: 0px;
