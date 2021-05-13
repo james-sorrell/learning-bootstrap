@@ -26,8 +26,12 @@
     background: #ad92db
 }
 
-.card-header {
+.card-header-contact {
     background: #685e7a
+}
+
+.card-header-reserve {
+    background: #ddc330
 }
 
 .address {
